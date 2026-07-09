@@ -1,0 +1,96 @@
+# =========================
+# Python cache / compiled files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Environment variables / Secrets
+# =========================
+.env
+.env.*
+*.env
+
+# API keys / credentials
+credentials.json
+config.json
+secrets.json
+*.pem
+*.key
+
+# =========================
+# IDE settings
+# =========================
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS generated files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# =========================
+# Build / Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# =========================
+# Selenium / Browser automation
+# =========================
+screenshots/
+downloads/
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# Database files
+# =========================
+*.sqlite3
+*.db

@@ -1,0 +1,4 @@
+# section 3: working with files
+plaintext files -> done
+opening, reading and closing files -> done
+readlines and the with statement --> waiting
