@@ -11,4 +11,5 @@ product sales tracker project - introduction -> done
 project walkthrough -> done
 
 # section 4 paths and folders
-understanding paths --> waiting
+understanding paths -> done
+handling paths with pathlib --> waiting
