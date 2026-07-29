@@ -1,4 +1,14 @@
 # section 3: working with files
 plaintext files -> done
 opening, reading and closing files -> done
-readlines and the with statement --> waiting
+readlines and the with statement -> done
+writing to plaintext files -> done
+csv files -> done
+reading from csv files -> done
+writing to csv files -> done
+transferring in text files -> done
+product sales tracker project - introduction -> done
+project walkthrough -> done
+
+# section 4 paths and folders
+understanding paths --> waiting
