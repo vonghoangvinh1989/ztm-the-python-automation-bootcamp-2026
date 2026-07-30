@@ -12,4 +12,10 @@ project walkthrough -> done
 
 # section 4 paths and folders
 understanding paths -> done
-handling paths with pathlib --> waiting
+handling paths with pathlib -> done
+pathlib methods -> done
+iterating over file paths -> done
+accessing file and folder properties -> done
+creating folder -> done
+copying files -> done
+copying folders --> waiting
