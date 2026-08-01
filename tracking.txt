@@ -18,4 +18,11 @@ iterating over file paths -> done
 accessing file and folder properties -> done
 creating folder -> done
 copying files -> done
-copying folders --> waiting
+copying folders -> done
+moving files and folders -> done
+renaming files and folders -> done
+deleting files and fodler -> done
+clean sweeper project introduction -> done
+another way to create paths -> done
+
+doing the project --> waiting
