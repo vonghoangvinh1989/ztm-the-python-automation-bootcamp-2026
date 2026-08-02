@@ -24,5 +24,4 @@ renaming files and folders -> done
 deleting files and fodler -> done
 clean sweeper project introduction -> done
 another way to create paths -> done
-
-doing the project --> waiting
+doing the project -> done
