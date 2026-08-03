@@ -25,3 +25,12 @@ deleting files and fodler -> done
 clean sweeper project introduction -> done
 another way to create paths -> done
 doing the project -> done
+project solution -> done
+
+# section 5 regular expressions
+introducing regular expressions -> done
+regex syntax basics -> done
+special characters -> done
+matching multiple characters -> done
+quantifiers -> done
+custom quantifiers --> waiting

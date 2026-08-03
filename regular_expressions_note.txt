@@ -1,0 +1,34 @@
+1) Regex syntax basics
+    . --> any characters, for example '.at' match 'cat, rat, bat hat'
+    \. --> dot, match '.'
+
+2) Special characters
+    \d --> any digit (0-9)
+    \D --> any non-digit
+    \w --> any alphanumeric (a-z, A-Z, 0-9)
+    \W --> any non-alphanumeric
+    \s --> any whitespace
+    \S --> any non-whitespace
+
+3) Matching Multiple characters
+    + Range of digits
+        [0-9] --> ranges of digits, from 1 through 9
+
+    + Range of letters
+        [a-z] --> any lowercase letter
+        [A-Z] --> any uppercase letter
+
+    + Combined ranges
+        [a-zA-Z] --> any letters
+        [0-9A-Za-z] --> any numbers or letters
+
+    + sets of characters
+        [tlc149] --> t, l, c, 1, 4, or 9
+        [tlc1-3] --> t, l, c 1, 2, or 3
+    
+    note: ^ used to negate in range, for exampl [^a-z]: not a to z
+
+4) Quantifiers
+    * --> match zero or more instances of previous character
+    + --> match one or more instances of previous character
+    ? --> match zero or one instances of previous character
