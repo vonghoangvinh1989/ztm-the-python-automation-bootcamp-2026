@@ -33,4 +33,12 @@ regex syntax basics -> done
 special characters -> done
 matching multiple characters -> done
 quantifiers -> done
-custom quantifiers --> waiting
+custom quantifiers -> done
+anchors -> done
+regular expressions in python 1 -> done
+regular expressions in python 2 -> done
+findall -> done
+the sub method -> done
+ssn maker mini-project introduction -> done
+mini-project solution -> done
+alternation --> waiting

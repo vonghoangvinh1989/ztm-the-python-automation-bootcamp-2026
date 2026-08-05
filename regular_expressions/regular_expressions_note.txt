@@ -32,3 +32,12 @@
     * --> match zero or more instances of previous character
     + --> match one or more instances of previous character
     ? --> match zero or one instances of previous character
+
+5) Custom Quantifiers with {}
+    {n} --> match n instances of preceding character, "a{3} matches 'aaa' not 'aaaa' / 'aa'"
+    {n,m} --> match between n and m instances of preceding character, "a{2,4} matches 'aa', 'aaa', and 'aaaa', not 'a'"
+    {n,} --> match n or more instances of preceding character, "a{2,} matches 'aa', 'aaa' and 'aaaaaa'"
+
+6) Anchors
+    ^ --> denote the start of a string, '^hello'
+    $ --> denote the end of a string, 'universe$'
