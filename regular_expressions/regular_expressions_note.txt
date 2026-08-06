@@ -41,3 +41,11 @@
 6) Anchors
     ^ --> denote the start of a string, '^hello'
     $ --> denote the end of a string, 'universe$'
+
+7) Alternation 
+    cat|dog --> match "cat" or "dog"
+
+8) Compilation Flags
+    IGNORECASE --> make the pattern case insensitive
+    MULTILINE --> makes ^ and $ match entire lines, instead of entire string 
+    DOTALL --> makes the dot character match all character, including new lines

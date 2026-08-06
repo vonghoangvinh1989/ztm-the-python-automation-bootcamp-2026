@@ -41,4 +41,7 @@ findall -> done
 the sub method -> done
 ssn maker mini-project introduction -> done
 mini-project solution -> done
-alternation --> waiting
+alternation -> done
+compilation flags -> done
+contact info extractor project introduction -> done
+doing the project --> waiting
