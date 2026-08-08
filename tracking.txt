@@ -45,4 +45,5 @@ alternation -> done
 compilation flags -> done
 contact info extractor project introduction -> done
 project solution part 1 -> done
-project solution part 2 --> waiting
+project solution part 2 -> done
+the compile method --> waiting
