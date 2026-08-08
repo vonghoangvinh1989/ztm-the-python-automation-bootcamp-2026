@@ -44,4 +44,5 @@ mini-project solution -> done
 alternation -> done
 compilation flags -> done
 contact info extractor project introduction -> done
-doing the project --> waiting
+project solution part 1 -> done
+project solution part 2 --> waiting
