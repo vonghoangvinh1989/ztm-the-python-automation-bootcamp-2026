@@ -46,4 +46,15 @@ compilation flags -> done
 contact info extractor project introduction -> done
 project solution part 1 -> done
 project solution part 2 -> done
-the compile method --> waiting
+the compile method -> done
+
+# section 6 automating spreadsheets
+introduction -> done
+introducing openpyxl -> done
+introducing gspread -> done
+automating excel 101 -> done
+important note -> done
+automating google sheets 101 -> done
+automating worksheet operations part 1 - excel -> done
+automating worksheet operations part 2 - excel -> done
+automating sheet operations part 1 - google sheets --> waiting

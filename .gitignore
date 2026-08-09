@@ -21,6 +21,7 @@ ENV/
 *.env
 
 # API keys / credentials
+service_account_credentials.json
 credentials.json
 config.json
 secrets.json
