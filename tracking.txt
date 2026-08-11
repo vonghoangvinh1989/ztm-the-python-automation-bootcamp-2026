@@ -57,4 +57,10 @@ important note -> done
 automating google sheets 101 -> done
 automating worksheet operations part 1 - excel -> done
 automating worksheet operations part 2 - excel -> done
-automating sheet operations part 1 - google sheets --> waiting
+automating sheet operations part 1 - google sheets -> done
+automating sheet operations part 2 - google sheets -> done
+working with cells - excel -> done
+working with cells - google sheets -> done
+working with ranges - excel -> done
+writing data to excel ranges -> done
+working with ranges - google sheets --> waiting
