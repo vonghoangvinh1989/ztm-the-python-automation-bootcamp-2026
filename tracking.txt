@@ -63,4 +63,8 @@ working with cells - excel -> done
 working with cells - google sheets -> done
 working with ranges - excel -> done
 writing data to excel ranges -> done
-working with ranges - google sheets --> waiting
+working with ranges - google sheets - part 1 -> done
+working with ranges - google sheets - part 2 -> done
+automating formulas part 1 - excel -> done
+automating formulas part 2 - excel -> done
+automating formulas part 1 - google sheets --> waiting
