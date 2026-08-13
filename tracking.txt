@@ -67,4 +67,9 @@ working with ranges - google sheets - part 1 -> done
 working with ranges - google sheets - part 2 -> done
 automating formulas part 1 - excel -> done
 automating formulas part 2 - excel -> done
-automating formulas part 1 - google sheets --> waiting
+automating formulas part 1 - google sheets -> done
+automating formulas part 2 - google sheets -> done
+working with cell styles - excel part 1 -> done
+working with cell styles - excel part 2 -> done
+working with cell styles - google sheets -> done
+diff analyzer project - introduction --> waiting
