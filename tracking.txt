@@ -72,4 +72,9 @@ automating formulas part 2 - google sheets -> done
 working with cell styles - excel part 1 -> done
 working with cell styles - excel part 2 -> done
 working with cell styles - google sheets -> done
-diff analyzer project - introduction --> waiting
+diff analyzer project - introduction -> done
+excel project - solution part 1 -> done
+excel project - solution part 2 -> done
+excel project - solution part 3 -> done
+
+doing the google sheets project --> waiting, important
