@@ -76,5 +76,19 @@ diff analyzer project - introduction -> done
 excel project - solution part 1 -> done
 excel project - solution part 2 -> done
 excel project - solution part 3 -> done
+doing the google sheets project -> done
+google sheets project solution part 1 -> done
+google sheets project solution part 2 -> done
+google sheets project solution part 3 -> done
+exercise imposter syndrome -> done
 
-doing the google sheets project --> waiting, important
+# section 7: automating email
+how email works -> done
+sending your first email with python part 1 -> done
+sending your first email with python part 2 -> done
+enhanced emails with email module part 1 -> done
+enhanced emails with email module part 2 -> done
+sending emails to multiple recipients -> done
+sending emails with attachments -> done
+customer feedback alert system project -> done
+doing the project --> waiting

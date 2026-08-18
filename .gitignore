@@ -23,6 +23,7 @@ ENV/
 # API keys / credentials
 service_account_credentials.json
 credentials.json
+app_password.py
 config.json
 secrets.json
 *.pem
