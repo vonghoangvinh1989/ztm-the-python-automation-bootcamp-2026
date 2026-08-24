@@ -91,4 +91,22 @@ enhanced emails with email module part 2 -> done
 sending emails to multiple recipients -> done
 sending emails with attachments -> done
 customer feedback alert system project -> done
-doing the project --> waiting
+doing the project -> done
+project solution part 1 -> done
+project solution part 2 -> done
+
+# section 8: apis
+introduction to apis -> done
+http 101 -> done
+making http requests with python -> done
+requesting json with python -> done
+adding parameters to requests -> done
+request parameters in python -> done
+tech trivia fetcher project -> done
+doing the project -> done
+project solution part 1 -> done
+project solution part 2 -> done
+
+# section 9: automating chatgpt
+introducing chatgpt -> done
+exploring chatgpt's capabilities --> waiting
