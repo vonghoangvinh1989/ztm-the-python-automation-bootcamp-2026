@@ -109,4 +109,9 @@ project solution part 2 -> done
 
 # section 9: automating chatgpt
 introducing chatgpt -> done
-exploring chatgpt's capabilities --> waiting
+exploring chatgpt's capabilities -> done
+api authentication -> done
+the open ai playground -> done
+managing the api key -> done
+our first api call -> done
+the max_tokens parameter --> waiting
