@@ -44,7 +44,8 @@ response = client.responses.create(
   include=[
     "reasoning.encrypted_content",
     "web_search_call.action.sources"
-  ]
+  ],
+  max_output_tokens=1000,
 )
 
 content = response.choices[0].message.content
